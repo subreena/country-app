@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+    
+}
+ul>li{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: #6a758a;
+    padding: 30px;
+    border-radius: 10px;
+    width: 700px;
+ 
+}
+.flag{
+   
+    padding: 10px;
+}
+img{
+    height: 100px;
+    float: left;
+}
